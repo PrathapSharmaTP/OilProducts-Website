@@ -78,6 +78,10 @@ body {
   align-items: center;
   padding: 50px 10%;
   flex-wrap: wrap;
+  background-image:url(undefined_Reduce_the_height_an.png);
+  height:100vh;
+  background-size:cover;
+  background-repeat:no-repeat;
 }
 
 .hero-text {
@@ -293,4 +297,5 @@ body {
     border-radius: 20px;
   }
 }
+
 
